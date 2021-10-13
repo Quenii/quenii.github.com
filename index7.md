@@ -11,3 +11,8 @@ category: 7
     {% endfor %}
   </ul>
 </ul>
+<hr/>
+  <ul class="pagination">
+  <li ><a href="https://github.com/quenii/quenii.github.com/new/master/_posts">新增一节</a></li>
+  </ul>
+<hr>
