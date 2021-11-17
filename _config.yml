@@ -10,7 +10,7 @@ author:
 markdown: rdiscount
 permalink:  none
 production_url: http://quenii.github.io/
-img_url: http://quenii.github.io//images
+img_url: http://quenii.github.io/images
 
 collections:
   characters:
